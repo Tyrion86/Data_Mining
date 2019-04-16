@@ -1,2 +1,2 @@
-Git is a version control system.
-Git is free software.
+This is a project containing code for data mining
+The code may be java or python
